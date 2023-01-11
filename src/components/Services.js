@@ -7,13 +7,13 @@ function Services() {
             <div className="col-md-12">
                 <div className="row">
                     <div className="col-md-4 mb-2">
-                        <Card title="Web Development" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
+                        <Card title="Web Development Solutions" img="card1.png" text="Full stack software development solutions." />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="E-Commerce Services" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
+                    <Card title="Web3 Solutions" img="card2.png" text="Blockchain, NFT, AI etc." />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="Cyber Security" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
+                    <Card title="Privacy Computing Software Solutions" img="card3.png" text="Trust Execution Environment, Federated Learning, and Secure Multi-party Computing solutions." />
                     </div>
                 </div>
             </div>
