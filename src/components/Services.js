@@ -10,7 +10,7 @@ function Services() {
                         <Card title="Web Development Solutions" img="card1.png" text="Full stack software development solutions." />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="Web3 Solutions" img="card2.png" text="Blockchain, NFT, AI etc." />
+                    <Card title="Web3 Solutions" img="card2.png" text="Decentralized Blockchain, Non-fungible token, etc." />
                     </div>
                     <div className="col-md-4 mb-2">
                     <Card title="Privacy Computing Software Solutions" img="card3.png" text="Trust Execution Environment, Federated Learning, and Secure Multi-party Computing solutions." />

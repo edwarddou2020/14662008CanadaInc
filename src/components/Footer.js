@@ -10,12 +10,6 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <p className="footer-text">
-                  Copyright @ 2023 14662008 Canada Inc.
-        
-                </p>
-              </div>
-              <div className="col-md-3">
                 <p className="footer-title">Important Link</p>
                 <ul>
                   <li>
