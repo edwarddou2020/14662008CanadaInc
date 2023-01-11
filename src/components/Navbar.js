@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              DarkLeas
+              God helps those who help themselves - 天道酬勤
             </Link>
           </h1>
           <ul className="bar">
