@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              God helps those who help themselves - 天道酬勤
+              14662008 Canada Inc.
             </Link>
           </h1>
           <ul className="bar">
